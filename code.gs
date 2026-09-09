@@ -9,6 +9,7 @@ const CONFIG = {
   SHEET_NAME: 'TelegramExpenseTrackingTool_GoogleAppScript',
   TELEGRAM_BOT_TOKEN: PROPERTIES.getProperty('TELEGRAM_BOT_TOKEN'),
   WEBHOOK_URL: PROPERTIES.getProperty('WEBHOOK_URL'),
+  // TODO: Add Telegram user access control.
   //ALLOWED_CHAT_ID: PROPERTIES.getProperty('ALLOWED_CHAT_ID'),
 
   USER_CONTEXT: `
