@@ -1,3 +1,5 @@
+[繁體中文](README.zh-TW.md)
+
 # AI-Assisted Personal Expense Tracker
 
 A small personal expense-tracking tool that connects Telegram, Google Apps Script, the Gemini API, and Google Sheets.
